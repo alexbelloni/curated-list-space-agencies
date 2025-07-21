@@ -3,13 +3,13 @@ A curated list of global space agencies for reference in the 2025 Space Apps Cha
 
 ## 🛰️ National Aeronautics and Space Administration - NASA
 
-| Name                                      | Acronym | Country                     | URL                                      |
+| Name                                      | Acronym | Location                    | URL                                      |
 |-------------------------------------------|---------|-----------------------------|-------------------------------------------|
 | National Aeronautics and Space Administration | NASA    | United States              | https://www.nasa.gov/                     |
 
 ## 🛰️ 2025 Space Apps Challenge Partners
 
-| Name                                      | Acronym | Country                     | URL                                      |
+| Name                                      | Acronym | Location                     | URL                                      |
 |-------------------------------------------|---------|-----------------------------|-------------------------------------------|
 | European Space Agency                    | ESA     | Europe (multi-national)    | http://www.esa.int                        |
 | Indian Space Research Organisation       | ISRO    | India                       | http://www.isro.gov.in                    |
@@ -30,21 +30,21 @@ A curated list of global space agencies for reference in the 2025 Space Apps Cha
 
 ## 🌐 Other Space Agencies
 
-| Name                                                         | Acronym      | Country                   | URL                                           |
+| Name                                                         | Acronym      | Location                   | URL                                           |
 |--------------------------------------------------------------|--------------|----------------------------|-----------------------------------------------|
  | Space Technologies and Satellite Systems Department	 | -	 | República Tcheca (Czech Republic)	 | https://www.czechspaceportal.cz/en/contacts/ | 
- | National Space Agency of the Republic of Kazakhstan (KazCosmos)	 | KazCosmos	 | Cazaquistão	 | N/A | 
+ | National Space Agency of the Republic of Kazakhstan (KazCosmos)	 | KazCosmos	 | Cazaquistão	 | http://www.kazcosmos.kz | 
  | Lithuanian Space Association | 	LSA | 	Lituânia	 | https://lithuanianspace.agency/ | 
  | National Remote Sensing Center of Mongolia	 | NRSC	 | Mongólia | 	http://www.icc.mn/ | 
- | Royal Center for Remote Sensing	 | CRTS	 | Marrocos	 | N/A | 
- | National Space Research and Development Agency | 	NASRDA	 | Nigéria	 | N/A | 
+ | Royal Center for Remote Sensing	 | CRTS	 | Marrocos	 | https://www.crts.gov.ma | 
+ | National Space Research and Development Agency | 	NASRDA	 | Nigéria	 | https://nasrda.gov.ng | 
  | National Aerospace Development Administration	 | NADA	 | Coreia do Norte | 	https://www.northkoreatech.org/tag/national-aerospace-development-administration/ | 
  | Norwegian Space Centre | 	NRS | 	Noruega | 	http://www.romsenter.no/eng/ | 
  | National Commission for Aerospace Research and Development	 | CONIDA	 | Peru	 | http://www.conida.gob.pe/ | 
- | Philippine Space Agency	 | PhilSA	 | Filipinas	 | N/A | 
+ | Philippine Space Agency	 | PhilSA	 | Filipinas	 | https://philsa.gov.ph | 
  | Dept. of Science and Technology – Advanced Science and Tech. Inst.	 | DOST–ASTI	 | Filipinas	 | https://asti.dost.gov.ph/ | 
- | Polish Space Agency	 | POLSA	 | Polônia	 | N/A | 
- | National Space Organization	 | NSPO	 | Taiwan	 | N/A | 
+ | Polish Space Agency	 | POLSA	 | Polônia	 | https://polsa.gov.pl | 
+ | National Space Organization	 | NSPO	 | Taiwan	 | https://www.tasa.org.tw | 
  | Agency for Science, Technology & Research	 | A*STAR	 | Singapura | 	https://www.a-star.edu.sg/ | 
  | Korea Aerospace Research Institute | 	KARI	 | Coreia do Sul	 | http://www.kari.re.kr/eng.do | 
  | Instituto Nacional de Técnica Aeroespacial | 	INTA | 	Espanha | 	http://www.cdti.es | 
@@ -52,22 +52,22 @@ A curated list of global space agencies for reference in the 2025 Space Apps Cha
  | Geo-Informatics and Space Technology Development Agency	 | GISTDA	 | Tailândia	 | https://www.gistda.or.th/main/en | 
  | National Remote Sensing Centre of Tunisia	 | CNCT | 	Tunísia	 | https://www.unoosa.org/pdf/pres/stsc2010/tech-05.pdf | 
  | Centre national de la cartographie et de la télédétection (Tunísia) | 	CNCT	 | Tunísia	 | N/A | 
- | Turkmenistan National Space Agency	 | TNSA | 	Turquemenistão	 | N/A | 
+ | Turkmenistan National Space Agency	 | TNSA | 	Turquemenistão	 | http://www.turkmencosmos.gov.tm | 
  | State Space Agency of Ukraine	 | SSAU	 | Ucrânia	 | http://www.nkau.gov.ua | 
  | United Arab Emirates Space Agency	 | UAESA	 | Emirados Árabes Unidos	 | http://www.space.gov.ae/ | 
- | United Nations Committee on the Peaceful Uses of Outer Space	 | UNCOPUOS	 | ONU	 | N/A | 
- | Uzbek State Space Research Agency (UzbekCosmos)	 | USSRA (UzbekCosmos) | 	Uzbequistão	 | N/A | 
+ | United Nations Committee on the Peaceful Uses of Outer Space	 | UNCOPUOS	 | ONU	 | https://www.unoosa.org/oosa/en/ourwork/copuos/index.html | 
+ | Uzbek State Space Research Agency (UzbekCosmos)	 | USSRA (UzbekCosmos) | 	Uzbequistão	 | https://uzspace.uz/en | 
 | Belgian Institute for Space Aeronomy	  | BIRA  | 	Bélgica	  | https://www.aeronomie.be/  | 
 | Consultative Committee for Space Data Systems                | CCSDS       | N/A                        | https://public.ccsds.org/                     |
 | European GNSS Agency                                         | GSA          | EU                         | http://www.gsa.europa.eu                      |
 | Asia Pacific Space Cooperation Organization                  | APSCO        | Asia (multi-national)      | http://www.apsco.int                          |
-| Swiss Space Office                                           | SSO          | Switzerland                | N/A                                           |
+| Swiss Space Office                                           | SSO          | Switzerland                | https://www.sso.admin.ch                                           |
 | Algerian Space Agency                                        | ASAL         | Algeria                    | http://www.asal.dz/                           |
 | National Space Program Office                                | CGPEN        | Angola                     | https://www.ggpen.gov.ao/                     |
 | Australian Space Agency                                      | ASA          | Australia                  | http://www.space.gov.au                       |
-| Austrian Space Agency                                        | ALR          | Austria                    | https://www.ffg.at/...                        |
-| Space Agency of the Republic of Azerbaijan (Azercosmos)      | Azercosmos   | Azerbaijan                 | N/A                                           |
-| Space Research and Remote Sensing Organization               | SPARRSO      | Bangladesh                 | N/A                                           |
+| Austrian Space Agency                                        | ALR          | Austria                    | https://www.ffg.at/                        |
+| Space Agency of the Republic of Azerbaijan (Azercosmos)      | Azercosmos   | Azerbaijan                 | https://azercosmos.az/                                          |
+| Space Research and Remote Sensing Organization               | SPARRSO      | Bangladesh                 | https://sparrso.gov.bd                                         |
 | Belarus Space Agency                                         | BSA          | Belarus                    | www.spacegeneration.org                       |
 | Bolivian Space Agency                                        | ABE          | Bolivia                    | https://www.abe.bo/                           |
 | Bulgarian Space Agency                                       | ИКИ-БАН      | Bulgaria                   | www.space.bas.bg                              |
@@ -75,7 +75,7 @@ A curated list of global space agencies for reference in the 2025 Space Apps Cha
 | China Manned Space Agency                                    | CMSA         | China                      | http://www.cmse.gov.cn                        |
 | Colombian Space Commission                                   | CCE          | Colombia                   | http://cce.gov.co/                            |
 | Central American Association for Aeronautics and Space       | ACAE         | Costa Rica                 | https://www.acae-ca.org/                      |
-| Danish Agency for Science and Higher Education               | DASHE        | Denmark                    | https://ufm.dk/...                            |
+| Danish Agency for Science and Higher Education               | DASHE        | Denmark                    | https://ufm.dk/                            |
 | Egyptian Space Agency                                        | NARSS        | Egypt                      | https://egsa.gov.eg/                          |
 | El Salvador Aerospace Institute                              | ESAI         | El Salvador                | https://www.esai.org.sv/                      |
 | National Centre for Space Studies (CNES)                     | CNES         | France                     | http://www.cnes.fr                            |
@@ -98,11 +98,11 @@ A curated list of global space agencies for reference in the 2025 Space Apps Cha
 | Romanian Space Agency                                        | ROSA         | Romania                    | http://www2.rosa.ro/index.php/en/            |
 | Roscosmos                                                    | ROSCOSMOS    | Russia                     | https://www.roscosmos.ru                      |
 | Saudi Space Commission                                       | SSC          | Saudi Arabia               | https://ssc.gov.sa/index-en.html             |
-| Swedish National Space Agency                                | SNSA         | Sweden                     | N/A                                           |
-| United Nations Office for Outer Space Affairs                | UNOOSA       | UN                         | N/A                                           |
+| Swedish National Space Agency                                | SNSA         | Sweden                     | https://www.rymdstyrelsen.se/en/                                        |
+| United Nations Office for Outer Space Affairs                | UNOOSA       | UN                         | https://www.unoosa.org                                           |
 | National Aeronautics and Space Administration                | NASA         | United States              | https://www.nasa.gov/                         |
 | Venezuelan Bolivarian Agency for Space Activities            | ABAE         | Venezuela                  | http://www.abae.gob.ve                        |
-| Vietnam National Space Center                                | VNSC         | Vietnam                    | N/A                                           |
+| Vietnam National Space Center                                | VNSC         | Vietnam                    | https://vnsc.org.vn/en/                                          |
 
 ---
 
